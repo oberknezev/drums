@@ -16,11 +16,16 @@ a, a:hover, a:visited, a:active, a:focus {
     outline: none;
     text-decoration: none;
 }
+h1, h3 {
+    margin: 30px;
+    text-align: center;
+}
 button {
     width: 70px;
     height: 85px;
     outline: none;
     padding-top: 60px;
+    margin: 10px;
 }
 #keyA {
     background: #ffffff url("../img/hihat.jpg") no-repeat top ;
