@@ -16,6 +16,9 @@ a, a:hover, a:visited, a:active, a:focus {
     outline: none;
     text-decoration: none;
 }
+body {
+    background-color: darkgray;
+}
 h1, h3 {
     margin: 30px;
     text-align: center;
@@ -27,21 +30,9 @@ button {
     padding-top: 60px;
     margin: 10px;
 }
-#keyA {
-    background: #ffffff url("../img/hihat.jpg") no-repeat top ;
-}
-#keyS {
-    background: #ffffff url("../img/snare.jpg") no-repeat center ;
-}
-#keyD {
-    background: #ffffff url("../img/openHat.jpg") no-repeat top ;
-}
-#keyJ {
-    background: #ffffff url("../img/crash.jpg") no-repeat top ;
-}
-#keyK {
-    background: #ffffff url("../img/kick.jpg") no-repeat top ;
-}
-#keyL {
-    background: #ffffff url("../img/ride.jpg") no-repeat top ;
-}
+#keyA {background: #ffffff url("../img/hihat.jpg") no-repeat top ;}
+#keyS {background: #ffffff url("../img/snare.jpg") no-repeat center ;}
+#keyD {background: #ffffff url("../img/openHat.jpg") no-repeat top ;}
+#keyJ {background: #ffffff url("../img/crash.jpg") no-repeat top ;}
+#keyK {background: #ffffff url("../img/kick.jpg") no-repeat top ;}
+#keyL {background: #ffffff url("../img/ride.jpg") no-repeat top ;}
