@@ -17,11 +17,15 @@ a, a:hover, a:visited, a:active, a:focus {
     text-decoration: none;
 }
 body {
-    background-color: darkgray;
+    background: darkgray url("../img/drumsBg1.jpg") no-repeat 50% -5%;
 }
 h1, h3 {
     margin: 30px;
     text-align: center;
+}
+h3 span{
+    display: inline;
+    background-color: #fff;
 }
 button {
     width: 70px;
